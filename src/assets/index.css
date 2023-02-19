@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*设置成盒子模型忽略边框*/
+}
+html,body{
+    height: 100%;
+}
+.ml-5{
+    margin-left: 10px;
+}
